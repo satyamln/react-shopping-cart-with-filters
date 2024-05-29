@@ -1,0 +1,27 @@
+.productdetail{
+    border:2px solid grey;
+    width:700px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.productdetail .title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.price-addToCart{
+    display: flex;
+    margin-top: 20px;
+}
+.price-addToCart .price{
+    margin-right: 20px;
+    line-height: 35px;
+}
+
+
+.related-products h1{
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid #000;
+}
